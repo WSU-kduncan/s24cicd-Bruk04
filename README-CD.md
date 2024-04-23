@@ -1,4 +1,4 @@
-#Disclaimer
+# Disclaimer
 As outlined in the email to the professor, this only contains documentation as project 4 is not completed.
 As a result I can at max only get ~10-11 points and can not get the 6 for the deliverables (as outlined in the rubric) 
 
@@ -7,7 +7,7 @@ As a result I can at max only get ~10-11 points and can not get the 6 for the de
   - The point of this project is to continue work done in Project 4. This includes: Tagging releases with Git for VC (version Control) as well as using 
 webhooks to keep the remote DockerHub reository up to date. I will be using, Git, Webhooks, Docker, and Dockerhub
 - Part 4 - Diagramming goes here
-  - ![myDiagram](https://i.gyazo.com/9a1b874acd5d6d9a11bc9ec2ce950671.png)
+   ![myDiagram](https://i.gyazo.com/9a1b874acd5d6d9a11bc9ec2ce950671.png)
 
 # Semantic Versioning
 
@@ -66,7 +66,7 @@ webhooks to keep the remote DockerHub reository up to date. I will be using, Git
     - You can select Active, and then if the callback url is failing multiple times in a row, set it to inactive.
 - Description of Webhook task definition file
 - Steps to set up a notifier in GitHub or DockerHub
-  - 1. Go to github
+  - 1. Go to github repository
   - 2. Settings -> webhooks -> add webhook
   - 3. Type URL for payload recieval
   - 4. Select secret if wanted

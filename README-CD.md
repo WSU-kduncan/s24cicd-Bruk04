@@ -66,7 +66,7 @@ webhooks to keep the remote DockerHub reository up to date. I will be using, Git
     - You can select Active, and then if the callback url is failing multiple times in a row, set it to inactive.
 - Description of Webhook task definition file
 - Steps to set up a notifier in GitHub or DockerHub
-  - 1. Go to github
+  - 1. Go to github repository
   - 2. Settings -> webhooks -> add webhook
   - 3. Type URL for payload recieval
   - 4. Select secret if wanted

@@ -1,4 +1,4 @@
-#Disclaimer
+# Disclaimer
 As outlined in the email to the professor, this only contains documentation as project 4 is not completed.
 As a result I can at max only get ~10-11 points and can not get the 6 for the deliverables (as outlined in the rubric) 
 
